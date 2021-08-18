@@ -1,4 +1,4 @@
-# Iris-Dataset-Analysis-and-Classification
+# Iris Dataset Analysis and Classification
 
 The aim of the project is to use a classification algorithm
 to train the model to predict the species of Iris, using the
